@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'http://localhost:4000/api',
+    baseURL: 'akshansh2-mern-cpc2cxb5dcamh4h2.centralindia-01.azurewebsites.net/api',
     headers: {
         'Cache-Control': 'no-cache',
         'Pragma': 'no-cache',
